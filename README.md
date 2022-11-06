@@ -9,7 +9,7 @@ I am Hugo Doueil, passionate about IT and web development. Having obtained a BTS
 * 🌍  I'm based in Toulouse, France
 * 🖥️  See my portfolio at [https://hugodoueil.fr](http://hugodoueil.fr)
 * ✉️  You can contact me at [hugodoueil@gmail.com](mailto:hugodoueil@gmail.com)
-* 🚀  I'm currently working on [https://hugodoueil.fr](http://hugodoueil.fr)
+* 🚀  I'm currently working on dQw4 ([Website](http://dqw4.hugodoueil.fr) and [Github](https://github.com/Ormidales/dQw4))
 * 🧠  I'm learning Javascript and Angular
 * 🤝  I'm open to collaborating on interesting projects
 
