@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Dev / FrontEnd Dev / BackEnd Dev
 ------------------------------------
 
-I am Hugo Doueil, passionate about IT and web development. Having obtained a BTS SIO SLAM in 2022, I am currently looking for a work-study program in order to complete a bachelor's degree in Bac+3.
+My name is Hugo Doueil, I'm a student in Licence Bac+3 DQL at IUT Paul Sabatier Department of Computer Science in Toulouse, France. I am passionate about computer science and web development and I would like to make my job.
 
 * 🌍  I'm based in Toulouse, France
 * 🖥️  See my portfolio at [https://hugodoueil.fr](http://hugodoueil.fr)
