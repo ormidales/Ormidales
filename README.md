@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hugo Doueil
 ===================================================================================================================================
 
-Web Dev / FrontEnd Dev / BackEnd Dev
+Web Dev / Fullstack Dev
 ------------------------------------
 
 My name is Hugo Doueil, I'm a student in Licence Bac+3 DQL at IUT Paul Sabatier Department of Computer Science in Toulouse, France. I am passionate about computer science and web development and I would like to make my job.
