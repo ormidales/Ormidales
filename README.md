@@ -4,12 +4,12 @@ Hi 👋 My name is Hugo Doueil
 Web / Fullstack Dev
 -------------------
 
-My name is Hugo Doueil, I'm a student in Licence Bac+3 DQL at IUT Paul Sabatier Department of Computer Science in Toulouse, France. I am passionate about computer science and web development and I would like to make my job.
+My name is Hugo Doueil, I'm a student in Licence Bac+3 DQL at IUT Paul Sabatier Department of Computer Science in Toulouse, France. I am passionate about computer science and web development and I would like to make my job. I'm currently working at XXCYCLE, Toulouse.
 
 * 🌍  I'm based in Toulouse, France
 * 🖥️  See my portfolio at [https://hugodoueil.fr](http://https://hugodoueil.fr)
 * ✉️  You can contact me at [hugodoueil@gmail.com](mailto:hugodoueil@gmail.com)
-* 🚀  I'm currently working on [xxcycle.fr](http://xxcycle.fr)
+* 🚀  I'm currently working at XXCYCLE, Toulouse
 * 🧠  I'm learning Vue.js and Angular
 * 🤝  I'm open to collaborating on interesting projects
 
