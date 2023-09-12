@@ -12,10 +12,6 @@ I also had the opportunity to work on a work-study basis at XXCycle in Toulouse,
 
 The passion for IT and web development has always motivated me 🚀. With my academic and professional experience, I am determined to transform this passion into a career 💼. With a solid foundation in IT and boundless ambition 🎓, I am well equipped to navigate this ever-changing field 📈.
 
-Discover my portfolio: https://hugodoueil.fr 🎨
-My GitHub: https://github.com/Ormidales 🛠️
-Contact me by email: hugodoueil@gmail.com 📧
-
 I invite you to browse my portfolio to get an overview of my career and my achievements. Do not hesitate to contact me to discuss potential opportunities or simply to discuss the exciting field of web development.
 
 * 🌍  I'm based in Villeneuve de Rivière, France
