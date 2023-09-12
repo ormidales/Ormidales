@@ -1,15 +1,27 @@
 Hi 👋 My name is Hugo Doueil
 ============================
 
-Web / Fullstack Dev
+Fullstack Developer | ❤️ PHP & Symfony | Open to opportunities
 -------------------
 
-My name is Hugo Doueil, I'm a student in Licence Bac+3 DQL at IUT Paul Sabatier Department of Computer Science in Toulouse, France. I am passionate about computer science and web development and I would like to make my job. I'm currently working at XXCYCLE, Toulouse.
+My name is Hugo Doueil 🙋‍♂️. I started my journey in IT 💻 with a BAC STI2D EE (Sciences and Technologies of Industry and Sustainable Development, specialized in Energy and Environment 🔌🌍). My passion for technology 💡 then led me to a BTS SIO (IT Services for Organizations). There, I consolidated my skills in IT and systems management.
 
-* 🌍  I'm based in Toulouse, France
+I recently completed my Bac+3 DQL Degree (Software Development and Quality 📝) at IUT Paul Sabatier, in the IT Department, in Toulouse, France 🇫🇷. This training allowed me to dive deep into various aspects of software development, from programming to quality management 🧠.
+
+I also had the opportunity to work on a work-study basis at XXCycle in Toulouse, thus enriching my practical experience in web development 🌐 and contributing to concrete projects. This immersion gave me a unique perspective on the real challenges of the sector 🏢.
+
+The passion for IT and web development has always motivated me 🚀. With my academic and professional experience, I am determined to transform this passion into a career 💼. With a solid foundation in IT and boundless ambition 🎓, I am well equipped to navigate this ever-changing field 📈.
+
+Discover my portfolio: https://hugodoueil.fr 🎨
+My GitHub: https://github.com/Ormidales 🛠️
+Contact me by email: hugodoueil@gmail.com 📧
+
+I invite you to browse my portfolio to get an overview of my career and my achievements. Do not hesitate to contact me to discuss potential opportunities or simply to discuss the exciting field of web development.
+
+* 🌍  I'm based in Villeneuve de Rivière, France
 * 🖥️  See my portfolio at [https://hugodoueil.fr](http://https://hugodoueil.fr)
 * ✉️  You can contact me at [hugodoueil@gmail.com](mailto:hugodoueil@gmail.com)
-* 🚀  I'm currently working at XXCYCLE, Toulouse
+* 🚀  I'm currently working on my web portfolio
 * 🧠  I'm learning Vue.js and Angular
 * 🤝  I'm open to collaborating on interesting projects
 
