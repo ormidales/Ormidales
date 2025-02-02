@@ -15,7 +15,6 @@ The passion for IT and web development has always motivated me 🚀. With my aca
 I invite you to browse my portfolio to get an overview of my career and my achievements. Do not hesitate to contact me to discuss potential opportunities or simply to discuss the exciting field of web development.
 
 * 🌍  I'm based in Villeneuve de Rivière, France
-* 🖥️  See my portfolio at [https://hugodoueil.vondiktion.fr](https://hugodoueil.vondiktion.fr)
 * ✉️  You can contact me at [hugodoueil@gmail.com](mailto:hugodoueil@gmail.com)
 * 🚀  I'm currently working on my web portfolio
 * 🧠  I'm learning Vue.js and Angular
