@@ -4,6 +4,7 @@
 - PHP
 - Symfony
 - Laravel
+- React
 - VueJS
 - HTML5
 - CSS3
